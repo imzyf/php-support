@@ -1,0 +1,11 @@
+{
+    "name": "imzyf/php-support",
+    "type": "library",
+    "authors": [
+        {
+            "name": "yifan",
+            "email": "zhaoyifans@gmail.com"
+        }
+    ],
+    "require": {}
+}
